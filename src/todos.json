@@ -1,0 +1,34 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsible": "Yanni",
+            "description": "create a car",
+            "priority" : "low"
+            },
+
+            {
+                "title": "Task 2",
+                "responsible": "Primo versacce",
+                "description": "create an Airplane",
+                "priority" : "medium"
+                },
+
+                {
+                    "title": "Task 3",
+                    "responsible": "Josh",
+                    "description": "create a Spaceship",
+                    "priority" : "high"
+                    },
+
+                    {
+                        "title": "Task 4",
+                        "responsible": "Hermo",
+                        "description": "create an aplication web",
+                        "priority" : "low"
+                        }
+
+                    
+    ] 
+    
+}
